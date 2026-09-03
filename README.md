@@ -13,11 +13,13 @@ documentação via Swagger/OpenAPI.
 
 | Nome completo              | RM        |
 |-----------------------------|-----------|
-| Lucas Catroppa Piratininga Dias | [RM555450] |
-| Fernando Gonzales Alexandre  | [RM555045] |
-| Gabriel Guerreiro Escobosa Vallejo  | [RM554973] |
-| Luiz Felipe Coelho Ramos  | [RM555074] |
-| Vitor Musolino Teixeira  | [RM555012] |
+| [Nome completo do aluno 1]  | [RM00000] |
+| [Nome completo do aluno 2]  | [RM00000] |
+| [Nome completo do aluno 3]  | [RM00000] |
+| [Nome completo do aluno 4]  | [RM00000] |
+| [Nome completo do aluno 5]  | [RM00000] |
+
+> ✏️ Substitua a tabela acima pelos nomes e RMs reais dos integrantes do grupo.
 
 ## 🏗️ Arquitetura do Projeto
 
@@ -171,4 +173,3 @@ curl -X DELETE http://localhost:5000/api/v1/filmes/1
 - ASP.NET Core (.NET 10)
 - Swashbuckle.AspNetCore (Swagger/OpenAPI)
 - Injeção de Dependência nativa do ASP.NET Core (`AddSingleton`)
- 
