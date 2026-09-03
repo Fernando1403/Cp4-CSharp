@@ -13,11 +13,11 @@ documentação via Swagger/OpenAPI.
 
 | Nome completo              | RM        |
 |-----------------------------|-----------|
-| [Nome completo do aluno 1]  | [RM00000] |
-| [Nome completo do aluno 2]  | [RM00000] |
-| [Nome completo do aluno 3]  | [RM00000] |
-| [Nome completo do aluno 4]  | [RM00000] |
-| [Nome completo do aluno 5]  | [RM00000] |
+| Lucas Catroppa Piratininga Dias | [RM555450] |
+| Fernando Gonzales Alexandre  | [RM555045] |
+| Gabriel Guerreiro Escobosa Vallejo  | [RM554973] |
+| Luiz Felipe Coelho Ramos  | [RM555074] |
+| Vitor Musolino Teixeira  | [RM555012] |
 
 > ✏️ Substitua a tabela acima pelos nomes e RMs reais dos integrantes do grupo.
 
