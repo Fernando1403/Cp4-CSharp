@@ -162,12 +162,13 @@ curl -X DELETE http://localhost:5000/api/v1/filmes/1
 > `docs/prints/` no repositório, e referencie-as abaixo:
 
 ```markdown
-![GET - Listar filmes] <img width="1279" height="975" alt="image" src="https://github.com/user-attachments/assets/0929772d-9cce-49f5-8efe-5746dfaa9cd4" />
-
+![GET - Listar filmes] 
 ![POST - Criar filme](docs/prints/post-criar.png)
 ![PUT - Atualizar filme](docs/prints/put-atualizar.png)
 ![DELETE - Remover filme](docs/prints/delete-remover.png)
 ```
+<img width="1279" height="975" alt="image" src="https://github.com/user-attachments/assets/ac1909e3-7983-48ef-bfd7-413441bfd904" />
+
 
 ## 🛠️ Tecnologias utilizadas
 
