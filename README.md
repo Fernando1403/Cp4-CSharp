@@ -157,17 +157,17 @@ curl -X DELETE http://localhost:5000/api/v1/filmes/1
 
 ## 📷 Prints dos testes no Swagger
 
-> Adicione aqui as capturas de tela dos testes realizados na interface do
-> Swagger (`GET`, `POST`, `PUT`, `DELETE`), por exemplo dentro de uma pasta
-> `docs/prints/` no repositório, e referencie-as abaixo:
-
 ```markdown
 ![GET - Listar filmes] 
-![POST - Criar filme](docs/prints/post-criar.png)
-![PUT - Atualizar filme](docs/prints/put-atualizar.png)
-![DELETE - Remover filme](docs/prints/delete-remover.png)
+![POST - Criar filme]
+![PUT - Atualizar filme]
+![DELETE - Remover filme]
 ```
 <img width="1279" height="975" alt="image" src="https://github.com/user-attachments/assets/ac1909e3-7983-48ef-bfd7-413441bfd904" />
+<img width="1279" height="974" alt="image" src="https://github.com/user-attachments/assets/b6ff4eb9-1135-424a-8f1f-ba62cec02d9f" />
+<img width="1279" height="975" alt="image" src="https://github.com/user-attachments/assets/7ebffb86-05fc-4d2f-b0d1-af1e1a6edd71" />
+<img width="1279" height="977" alt="image" src="https://github.com/user-attachments/assets/eb5bce6f-a8d4-4e98-baf2-293ef90a50bc" />
+<img width="1279" height="983" alt="image" src="https://github.com/user-attachments/assets/c567a722-683d-4153-96f3-3e583a9bea41" />
 
 
 ## 🛠️ Tecnologias utilizadas
