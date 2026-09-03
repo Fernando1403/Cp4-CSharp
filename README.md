@@ -19,8 +19,6 @@ documentação via Swagger/OpenAPI.
 | Luiz Felipe Coelho Ramos  | [RM555074] |
 | Vitor Musolino Teixeira  | [RM555012] |
 
-> ✏️ Substitua a tabela acima pelos nomes e RMs reais dos integrantes do grupo.
-
 ## 🏗️ Arquitetura do Projeto
 
 ```
